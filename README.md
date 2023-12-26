@@ -37,7 +37,7 @@ cd bot-teste-iptv-ssh
 2. Altere o arquivo `.env` na pasta raiz do bot e insira seu token do bot do Telegram:
 
 ```env
-TELEGRAM_BOT_TOKEN=SeuTokenAqui
+TELEGRAM_BOT_TOKEN=6757778819:AAHPQ9cWcqWOlkv79pPEpfJCnpuy1T6Mbfk
 ```
 
 3. Instale as dependências Python:
